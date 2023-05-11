@@ -6,8 +6,8 @@ const cors = require("cors");
 const PORT = process.env.PORT || 4000;
 
 // Import JSON files
-const projects = require("./projects.json");
-const about = require("./about.json");
+const projects = require("../projects.json");
+const about = require("../about.json");
 
 // Create our app object
 const app = express();
