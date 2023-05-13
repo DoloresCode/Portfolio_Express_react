@@ -3,12 +3,12 @@
       "name": "Blackjack Game",
       "live": "https://dolorescode.github.io/Blackjack_Game/",
       "git": "https://github.com/DoloresCode/Blackjack_Game",
-      "image": "frontend/public/Pictures/Screenshot_Blackjack.png"
+      "image": "Pictures/Screenshot_Blackjack.png"
     },
     {
       "name": "KitchenConnect",
       "live": "https://kitchenconnect-project.onrender.com/homepage",
       "git": "https://github.com/kellims/Project-2-Group-6",
-      "image": "frontend/public/Pictures/ScreenShot _KitchenConnect.png"
+      "image": "Pictures/ScreenShot _KitchenConnect.png"
     }
   ]
