@@ -1,14 +1,54 @@
 [
     {
+      "name": "DailyDone",
+      "live": "https://dailydone.onrender.com/",
+      "git": "https://github.com/DoloresCode/dailydone",
+      "image": "Pictures/dailydone_public_homepage.png",
+      "description": "DailyDone, is a robust project management web application. I engineered it using a full-stack approach with HTML/CSS/JavaScript, Bootstrap, NEON on the frontend, and Python, Django, and SQLite on the backend. It offers comprehensive CRUD operations, enabling efficient project and task management, role assignment, and real-time progress tracking. With an intuitive UI and fortified by Django Authentication, DailyDone streamlines workflow and boosts team collaboration, making it a staple tool for project-based undertakings."
+    },
+    {
       "name": "Blackjack Game",
       "live": "https://dolorescode.github.io/Blackjack_Game/",
       "git": "https://github.com/DoloresCode/Blackjack_Game",
-      "image": "Pictures/Screenshot_Blackjack.png"
+      "image": "Pictures/Screenshot_Blackjack.png",
+      "description": "Leveraging HTML, CSS, and JavaScript, I engineered a dynamic Blackjack game, incorporating an engaging player-versus-computer mode, a robust scoring system, and a reset feature to enhance user interaction, testing, and game experience."
+    },
+    {
+      "name": "MovScroll",
+      "live": "https://movscroll.onrender.com/",
+      "git": "https://github.com/DoloresCode/MovScroll",
+      "image": "Pictures/Movscroll_HomePage.png",
+      "description": "MovScroll, is a dynamic web application for movie enthusiasts and cinephiles. I developed it using a full-stack approach. Leveraging HTML5, CSS3, JavaScript, PostgreSQL, Python, Django, and NEON, I designed a platform with an extensive movie and actor database that allows users to effortlessly navigate, search, and manage their favorite films and actors. As a fully-featured CRUD application, MovScroll enhances the cinematic discovery experience for users of all tastes and preferences."
     },
     {
       "name": "KitchenConnect",
       "live": "https://kitchenconnect-project.onrender.com/homepage",
       "git": "https://github.com/kellims/Project-2-Group-6",
-      "image": "Pictures/ScreenShot _KitchenConnect.png"
-    }
+      "image": "Pictures/ScreenShot_KitchenConnect.png",
+      "description": "KitchenConnect, a collaborative project developed with two other full-stack engineers, is a captivating platform that unites people through their shared passion for cooking and recipes. Harnessing the power of HTML, CSS, JavaScript, NodeJs, Express, EJS, MongoDB, and Mongoose, we crafted a user-friendly space where everyone from beginners to professional chefs can discover, create, edit, share, and manage recipes, building their own personalized food hub."
+    },
+    {
+    "name": "EchoBeats",
+    "live": "https://echobeats.netlify.app/",
+    "gitFrontend": "https://github.com/DoloresCode/EchoBeats",
+    "gitBackend": "https://github.com/DoloresCode/EchoBeats_Auth",
+    "image": "Pictures/Echobeats_homepage.png",
+    "description": "EchoBeats, crafted with a full-stack suite including HTML5, CSS3, JavaScript, React, Node.js, Express.js, JWT and MongoDB, offers an immersive platform for music, playlits and artists discovery. Featuring a comprehensive search functionality, sign up and API. It presents curated music collections visually, inspiring users to delve deeper into the world of music. Its seamless interface further enhances the exploration journey, making EchoBeats a cornerstone for global music inspiration."
+    },
+    {
+      "name": "Finchfetch Microorganisms",
+      "live": "https://finfetch-microorganisms.onrender.com/",
+      "git": "https://github.com/DoloresCode/finchfetch",
+      "image": "Pictures/finchfetch_microorganisms-homepage.png",
+      "description": "Finchfetch Microorganisms is a full-featured CRUD application I crafted using HTML5, CSS3, JavaScript, PSQL, Python, Django, and NEON. The platform serves as a comprehensive database of microorganisms and culture media, offering key insights for research and education. It provides easy access to detailed data on various microorganisms and culture media, encapsulating my full-stack capabilities and Agile skills."
+    },
+    {
+      "name": "Dolores Crazover | Porfolio",
+      "live": "https://dolores-crazover-swe-portfolio.onrender.com",
+      "gitFrontend": "https://github.com/DoloresCode/Portfolio_Express_react_frontend",
+      "gitBackend": "https://github.com/DoloresCode/express-react-full-bull-backend",
+      "image": "Pictures/Portfolio_dolores_crazover.png",
+      "description": "My portfolio, a full-stack application using React and Express, is a snapshot of my full-stack software identity, skills, and passions. It serves as an interactive invitation for potential collaborations, providing an effortless way for viewers to initiate contact, while highlighting my proficiency as a full-stack developer."
+      }
+    
   ]
